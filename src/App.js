@@ -1,24 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import DailySalah from './components/salah/daily-salah'
+import './App.scss';
+import moment from 'moment-hijri'
+import DateTime from './components/date-time/date-time';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div className="App-header">
+        <DateTime />
+      </div>
+      <div className="App">
+        <div className="App-body">
+          <DailySalah date={moment().format('DD/MM')} liveTimes={true} />
+
+        </div>
+      </div>
     </div>
   );
 }

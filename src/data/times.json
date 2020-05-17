@@ -1,0 +1,47 @@
+{
+  "05/04": {
+    "Date": "04/04",
+    "Fajr Begins": "06:26",
+    "Fajr Jama‘ah": "06:56",
+    "Sunrise": "08:03",
+    "Zuhr Begins": "12:09",
+    "Zuhr Jama‘ah": "12:45",
+    "Asr Mithl 1": "13:46",
+    "Asr Mithl 2": "14:17",
+    "Asr Jama‘ah": "14:45",
+    "Maghrib Begins": "16:05",
+    "Maghrib Jama‘ah": "16:10",
+    "Isha Begins": "19:42",
+    "Isha Jama‘ah": "20:15"
+  },
+  "10/04": {
+    "Date": "10/04",
+    "Fajr Begins": "06:20",
+    "Fajr Jama‘ah": "06:43",
+    "Sunrise": "08:00",
+    "Zuhr Begins": "12:15",
+    "Zuhr Jama‘ah": "13:00",
+    "Asr Mithl 1": "13:45",
+    "Asr Mithl 2": "14:30",
+    "Asr Jama‘ah": "14:45",
+    "Maghrib Begins": "16:07",
+    "Maghrib Jama‘ah": "16:12",
+    "Isha Begins": "19:50",
+    "Isha Jama‘ah": "20:30"
+  },
+  "13/04": {
+    "Date": "13/04",
+    "Fajr Begins": "06:20",
+    "Fajr Jama‘ah": "06:43",
+    "Sunrise": "08:00",
+    "Zuhr Begins": "12:15",
+    "Zuhr Jama‘ah": "13:00",
+    "Asr Mithl 1": "13:45",
+    "Asr Mithl 2": "14:30",
+    "Asr Jama‘ah": "14:45",
+    "Maghrib Begins": "16:07",
+    "Maghrib Jama‘ah": "16:12",
+    "Isha Begins": "19:50",
+    "Isha Jama‘ah": "20:30"
+  }
+}
